@@ -1,0 +1,32 @@
+html
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*, *:before, *:after
+{
+    margin: inherit;
+    padding: inherit;
+    box-sizing: inherit;
+}
+.Headers-container
+{
+    background: black;
+}
+.Headers-container h1
+{
+    color: rgb(177, 235, 52);
+}
+.Headers-container h2
+{
+    color: #34eb58;
+}
+.Headers-container h3
+{
+    color: hsl(192, 82%, 56%);
+}
+.Headers-container h4
+{
+    color: hsl(296, 78%, 92%);
+}
